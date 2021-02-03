@@ -3,7 +3,7 @@ class Roof{
         var options = {
             isStatic: true
         }
-        this.body= Bodies.rectangle(350, 180, 400, 20, options);
+        this.body= Bodies.rectangle(400, 180, 400, 20, options);
         this.width=400;
         this.height=20;
 
